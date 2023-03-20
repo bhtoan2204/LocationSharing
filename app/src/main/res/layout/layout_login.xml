@@ -58,6 +58,8 @@
             android:id="@+id/cirLoginButton"
             style="@style/loginButton"
             android:text="Login"
+            android:textColor="@color/black"
+            android:textSize="50dp"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="@dimen/loginViewsMargin"/>
 
